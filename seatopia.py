@@ -16,3 +16,8 @@ class movie:
 m = movie('Godzilla Vs. Megalon', 'Cinema Shares International')
 
 m.release()
+
+
+g = movie('Godzilla Vs. Gigan', 'Cinema Shares International')
+
+g.release()
