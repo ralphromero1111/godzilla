@@ -1,16 +1,2 @@
 created a new repository for gz
 
-edit at will 777!
-
-1971
-1971
-1971
-1971
-1971
-1971
-1971
-1971
-1971
-1971
-1971
-1971
